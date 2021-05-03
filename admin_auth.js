@@ -18,4 +18,4 @@ function adminAuth() {
 }
 
 adminAuth();
-console.log("Admin Auth loaded 2");
+console.log("Admin Auth loaded V2.20");
