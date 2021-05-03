@@ -18,4 +18,4 @@ function adminAuth() {
 }
 
 adminAuth();
-console.log("Admin Auth loaded 2vh");
+console.log("Admin Auth loaded 2");
