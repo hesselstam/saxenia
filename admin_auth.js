@@ -17,5 +17,7 @@ function adminAuth() {
     });
 }
 
+//test
+
 adminAuth();
 console.log("Admin Auth loaded V2.20");
